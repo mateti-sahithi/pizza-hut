@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    border: solid 1px;
+    height: 600px;
+    background-image: url(gr.avif);
+    background-repeat: no-repeat;
+    background-size: 1400px 600px;
+}
+form{
+    border: solid 0px white;
+    margin-left: 800px;
+    width: 600px;
+    margin-top: 30px;
+}
+label{
+    color: aliceblue;
+    font-size: 25px;
+    font-style: oblique;
+}
+h1{
+    color: aliceblue;
+    font-size: 40px;
+    font-style: oblique;
+    text-align: center;
+}
+input{
+    height: 30px;
+    width: 310px;
+}
+button{
+    height: 45px;
+    width: 135px;
+    background-color:gold;
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+    border-radius: 20px;
+    font-style: oblique;
+}
+p{
+    color: aliceblue;
+    font-size: 25px;
+    font-style: oblique;    
+}
+p a{
+    color: aliceblue;
+    font-size: 25px;
+    font-style: oblique;
+}

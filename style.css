@@ -1,0 +1,38 @@
+*{
+        margin: 0px;
+        padding: 0px;
+    }
+    #out{
+        border: solid 1px;
+        height: 600px;
+        background-image: url(sv.jpg);
+        background-repeat: no-repeat;
+        background-size: 1360px 600px;
+    }
+    h1{
+        color: white;
+        font-size: 60px;
+        margin-top: 30px;
+        margin-left: 30px;
+        font-style: oblique;
+    }
+    #register,#login{
+        height: 60px;
+        width: 160px;
+        background-color: gold;
+    }
+    #register{
+        margin-left: 200px;
+    }
+    #register a,#login a{
+        color: black;
+        font-size: 21px;
+        text-decoration: none;
+        font-style: oblique;
+    }
+    #register:hover{
+        background-color: pink;
+    }
+    #login:hover{
+        background-color:pink;
+    }
